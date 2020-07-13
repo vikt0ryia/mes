@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+    font-family: "OpenSans", "Arial",  sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.header-info__messenger {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-info__icon {
+    display: flex;
+    width: 30px;
+    margin-left: 5px;   
+    justify-content: center;   
+    align-items: center;
+    border-radius: 100%;
+}
