@@ -16,7 +16,6 @@ body {
 
 .header-info__messenger {
     display: flex;
-    justify-content: flex-end;
 }
 
 .header-info__icon {
